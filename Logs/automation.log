@@ -1,0 +1,50 @@
+00:05:00.361 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:05:09.813 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:05:09.847 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:05:25.608 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:05:25.630 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:05:42.814 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:05:45.916 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:06:01.502 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:06:01.511 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:06:08.601 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:06:46.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Home\eclipse-workspace-miko\OpencartV001\grouping.xml
+
+00:06:56.490 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest *********
+00:06:56.683 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Click on MyAccount Link *******
+00:06:57.930 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Click on Register/Login link  *******
+00:06:57.937 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Providing customer details ********
+00:07:00.381 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Validating expected Message ********
+00:07:00.430 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Finished TC001_AccountRegistrationTest ***********
+00:07:07.903 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_loginTest**************
+00:14:12.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Home\eclipse-workspace-miko\OpencartV001\master.xml
+
+00:14:26.249 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:14:31.850 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:14:31.909 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:14:46.297 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:14:46.317 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:15:00.698 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:15:00.709 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:15:16.703 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:15:16.722 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:15:22.019 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:38:34.956 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:38:42.081 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:38:42.155 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:38:56.784 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:38:56.788 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:39:11.243 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:39:11.247 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:39:25.189 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+00:39:25.193 [main] INFO  testCases.TC003_login_DDT - ************TC_003_Login_DDT_ Started****************
+00:39:30.358 [main] INFO  testCases.TC003_login_DDT - ********TC003_Login_DDT_ Complete************
+02:03:39.490 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest *********
+02:04:04.751 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Click on MyAccount Link *******
+02:04:27.816 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Click on Register/Login link  *******
+02:04:27.939 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Providing customer details ********
+02:04:30.808 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Validating expected Message ********
+02:04:30.915 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Finished TC001_AccountRegistrationTest ***********
+02:04:39.282 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_loginTest**************
